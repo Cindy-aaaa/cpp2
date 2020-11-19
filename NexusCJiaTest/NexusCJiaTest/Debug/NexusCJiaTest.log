@@ -1,0 +1,4 @@
+﻿  NexusCJiaTest.cpp
+C:\Users\vsdiagtester\source\repos\NexusCJiaTest\NexusCJiaTest\NexusCJiaTest.cpp(28,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vsdiagtester\source\repos\NexusCJiaTest\NexusCJiaTest\NexusCJiaTest.cpp(77,21): warning C4101: 'msg': unreferenced local variable
+  NexusCJiaTest.vcxproj -> C:\Users\vsdiagtester\source\repos\NexusCJiaTest\Debug\NexusCJiaTest.exe
